@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Oscar Camacho
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning the java language for API´S
-- 💞️ I’m looking to collaborate on development groups with agile methodologies
+- 👀 I'm interested in web development
+- 🌱 I have knowledge in programming languages ​​such as java and javascript
 - 📫 How to reach me oscarcamacho699@gmail.com - https://www.linkedin.com/in/backdesarrollador
 
 <!---
